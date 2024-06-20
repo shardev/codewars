@@ -1,7 +1,7 @@
-from module2 import same 
+from same_arrays import same 
 from fib import fibonacci, productFib
 from scrambles import scramble
-from piramida import longestSlideDown
+from longestSlideDown import longestSlideDown
 from range import solution
 from peaks_ import pick_peaks
 
